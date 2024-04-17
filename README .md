@@ -1,7 +1,7 @@
-# x-twitterr-reply-generator
+# x-twitter-reply-generator
 
 
-x-twitterr-reply-generatorは、ユーザーのツイートに対して自動的に返信を生成するStreamlitベースのウェブアプリケーションです。このアプリは、OpenAIのGPT-4 VISIONモデルを利用して、テキストと画像の両方に基づいた返信を生成します。  
+x-twitter-reply-generatorは、ユーザーのツイートに対して自動的に返信を生成するStreamlitベースのウェブアプリケーションです。このアプリは、OpenAIのGPT-4 VISIONモデルを利用して、テキストと画像の両方に基づいた返信を生成します。  
 
 ## 環境構築
 
@@ -18,9 +18,9 @@ OpenAIのAPIキーを環境変数"OPENAI_API_KEY"として設定してくださ�
 
 アプリケーションを実行するには、以下のコマンドを実行します: `streamlit run test_app.py`
 
-# x-twitterr-reply-generator  
+# x-twitter-reply-generator  
   
-x-twitterr-reply-generator is a Streamlit-based web application that automatically generates replies to user tweets. The application uses OpenAI's GPT-4 VISION model to generate replies based on both text and images.  
+x-twitter-reply-generator is a Streamlit-based web application that automatically generates replies to user tweets. The application uses OpenAI's GPT-4 VISION model to generate replies based on both text and images.  
 ## Building the Environment  
 1. Install Python (recommended version: 3.10.12 or higher)
 2. InstallInstall dependent libraries by running the following command: pip install -r requirements.txt  
